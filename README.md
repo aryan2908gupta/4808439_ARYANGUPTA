@@ -1,1 +1,8 @@
 # 4808439_ARYANGUPTA
+#ARYAN GUPTA SDLC AND GIT CERTIFICATE BEING ADDED
+
+<img src="https://github.com/aryan2908gupta/4808439_ARYANGUPTA/blob/main/GIT%20CERTIFICATE/ARYAN%20CERTIFICATE.pdf" alt="GIT">
+
+##SDLC CERTIFICATE
+
+<img src="https://github.com/aryan2908gupta/4808439_ARYANGUPTA/blob/main/SDLC%20CERTIFICATE/Screenshot%20(150).png" alt="SDLC">
